@@ -116,33 +116,29 @@ body {
 }
 .cls1 {
     font-size: 28px;
-    position: fixed;
+    position: absolute;
     left: 8%;
-
 }
 .cls2 {
     font-size: 28px;
-    position: fixed;
+    position: absolute;
     left: 24%;
 
 }
 .cls3 {
     font-size: 28px;
-    position: fixed;
+    position: absolute;
     left: 41%;
-
 }
 .cls4 {
     font-size: 28px;
-    position: fixed;
+    position: absolute;
     left: 60%;
-
 }
 .cls5 {
     font-size: 28px;
-    position: fixed;
-    left: 78%;
-
+    position: absolute;
+    left: 77%;
 }
 .img {
     position: fixed;
