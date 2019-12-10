@@ -145,3 +145,14 @@ body {
     left: 92%;
     top: 1%;
 }
+.audio {
+    position: fixed;
+    left: 40%;
+    top: 72%;
+}
+.dbd {
+    position: fixed;
+    left: 35%;
+    top: 82%;
+}
+
